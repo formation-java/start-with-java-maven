@@ -1,4 +1,4 @@
-package fr.blablacar;
+package fr.glouglouwine;
 
 import org.junit.Test;
 import org.junit.Assert;
